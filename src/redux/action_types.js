@@ -1,0 +1,2 @@
+export const SET_CREDENTIALS = 'SET_CREDENTIALS';
+export const SET_METADATA = 'SET_METADATA';

@@ -1,0 +1,10 @@
+div.completed-container {
+    display: flex;
+    height: 10px;
+    border:1px solid grey;
+    margin: 0 -16px;
+}
+
+div.completed {
+    background-color: #4A90E2;
+}
